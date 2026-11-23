@@ -1,0 +1,42 @@
+{
+  "updated_kst": "2026-11-23 18:18 (KST)",
+  "erp_files": [
+    "ERP_20261123180857.xlsx",
+    "ERP_20261119180133.xlsx",
+    "ERP_20261119175853.xlsx",
+    "ERP_20261119171737.xlsx",
+    "ERP_20261119170815.xlsx",
+    "ERP_20261119164909.xlsx",
+    "ERP_20261103133553.xlsx"
+  ],
+  "cost_files": [
+    "마감내역_2026-03.xlsx",
+    "마감내역_2026-09.xlsx",
+    "마감내역_2026-04.xlsx",
+    "마감내역_2026-06.xlsx",
+    "마감내역_2026-07.xlsx",
+    "마감내역_2026-02.xlsx",
+    "마감내역_2026-05.xlsx",
+    "마감내역_2026-01.xlsx",
+    "마감내역_2026-08.xlsx"
+  ],
+  "datasets": {
+    "sales": [
+      "data/sales_2025.csv",
+      "data/sales_2026.csv"
+    ],
+    "prices": [
+      "data/prices_2025.csv",
+      "data/prices_2026.csv"
+    ],
+    "clients": [
+      "data/clients.csv"
+    ],
+    "skus": [
+      "data/skus.csv"
+    ],
+    "costs": [
+      "data/costs.csv"
+    ]
+  }
+}
